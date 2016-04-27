@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./friderspanhemii00wijngoog_0140.png"; bbox 0 0 558 917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 110 55 478 96">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 110 55 478 96">
+     <span class='ocr_line' id='line_1_1' title="bbox 110 55 478 96; baseline -0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 110 55 116 71; x_wconf 22' lang='lat' dir='ltr'><em>&#39;r</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 137 63 156 76; x_wconf 42' lang='lat'><em>”¹</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 177 62 319 92; x_wconf 55' lang='lat' dir='ltr'><em>3adffih1012</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 344 60 366 66; x_wconf 32' lang='grc' dir='ltr'><em>’Μ’</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 433 64 478 96; x_wconf 51' lang='grc' dir='ltr'><em>ιἰγῖ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
